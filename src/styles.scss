@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import '@nebular/theme/styles/prebuilt/default.css'; 
+@import "@nebular/theme/styles/prebuilt/dark.css";
+
+
+@import "tailwindcss/base";        // Estilos base de Tailwind
+@import "tailwindcss/components";  // Componentes de Tailwind
+@import "tailwindcss/utilities";
+
+
+
+
+html,
+body {
+  height: 100%;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+}
+
+app-nav {
+    width: 100%;
+}
+
+h1,
+nb-card,
+nb-button,
+nb-input,
+nb-layout-header,
+nb-card-header,
+button,
+nb-list-item,
+nb-layout-footer,
+nav,
+nb-select {
+  font-family: 'Space Grotesk', sans-serif !important; /* Agregar !important si es necesario */
+}
+
+

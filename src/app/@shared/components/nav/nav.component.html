@@ -1,0 +1,17 @@
+<nb-action class="w-full flex justify-between items-center text-white">
+  <!-- Logo o título -->
+  <div class="logo text-lg font-bold">
+    <h1>nebular</h1>
+  </div>
+
+  <!-- Botón de menú (visible solo en móviles y tablets) -->
+  <button
+    nbButton
+    (click)="toggleSidebar()"
+    class="md:hidden"
+    status="black"
+    shape="round"
+  >
+    <nb-icon icon="menu-outline"></nb-icon>
+  </button>
+</nb-action>

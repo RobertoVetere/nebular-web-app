@@ -1,0 +1,10 @@
+<!-- Botones de cambio de tema (ocultos en móviles, visibles en tablets y más grandes) -->
+<div class="space-x-4">
+  <app-custom-button [status]="'primary'" (onClick)="switchToDarkTheme()">
+    Tema Oscuro
+  </app-custom-button>
+
+  <app-custom-button [status]="'info'" (onClick)="switchToLightTheme()">
+    Tema Claro
+  </app-custom-button>
+</div>
