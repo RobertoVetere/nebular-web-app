@@ -1,6 +1,6 @@
 # PruebaHome
 
-Este proyecto es una prueba que utiliza el framework **Angular** junto con varias librerías de diseño y componentes avanzados como **Nebular**, **Tailwind CSS** y **Eva Icons**, para crear una aplicación sencilla con diseño responsive. 
+Este proyecto es una prueba de aplicación Angular que implementa la Clean Architecture, utilizando librerías como Nebular, Tailwind CSS, y Eva Icons para crear un diseño sencillo, responsive, y modular. La estructura sigue un patrón basado en Core, Feature, y Shared, lo que facilita la escalabilidad y el mantenimiento de la aplicación.
 
 ## Agradecimientos
 Api https://fakestoreapi.com/products
