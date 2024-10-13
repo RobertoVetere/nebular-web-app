@@ -1,6 +1,6 @@
 # PruebaHome
 
-Este proyecto es una prueba que utiliza el framework **Angular** junto con varias librerías de diseño y componentes avanzados como **Nebular**, **Tailwind CSS** y **Eva Icons**, para crear una aplicación sencilla con diseño responsive. A continuación se explican los detalles de la implementación.
+Este proyecto es una prueba que utiliza el framework **Angular** junto con varias librerías de diseño y componentes avanzados como **Nebular**, **Tailwind CSS** y **Eva Icons**, para crear una aplicación sencilla con diseño responsive. 
 
 ## Tecnologías Utilizadas
 
