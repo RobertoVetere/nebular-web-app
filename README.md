@@ -2,6 +2,9 @@
 
 Este proyecto es una prueba que utiliza el framework **Angular** junto con varias librerías de diseño y componentes avanzados como **Nebular**, **Tailwind CSS** y **Eva Icons**, para crear una aplicación sencilla con diseño responsive. 
 
+## Agradecimientos
+Api https://fakestoreapi.com/products
+
 ## Tecnologías Utilizadas
 
 ### 1. **Nebular**
